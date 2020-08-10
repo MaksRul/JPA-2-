@@ -8,7 +8,7 @@
         </provider>
         <properties>
             <property name ="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://3306/University"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://3306/Menu"/>
             <property name="javax.persistence.jdbc.user" value="root"/>
             <property name="javax.persistence.jdbc.password" value="Fyfnjvbz22*"/>
             <property name="hibernate.show-sql" value="true"/>
